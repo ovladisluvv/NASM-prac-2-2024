@@ -33,12 +33,15 @@
     │ └── taskN_RM.c
     │
     ├── taskN_big
+    | ├── reportN
+    | | ├── reportN.pdf
+    │ | └── reportN.tex
     │ ├── <realization_file1>.c
     │ ├── <realization_file2>.asm
     │ │   ...
     │ ├── Makefile
-    │ ├── reportN.pdf
     │ └── README.md
+
 ```
 где N - номер контеста, M - номер задачи в контесте N
 
